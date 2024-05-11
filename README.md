@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I am a Jolly Character**
 
-<h3 align="center">Connect with me:</h3>
+
 <p align="center">
 </p>
 
