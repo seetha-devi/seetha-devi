@@ -24,10 +24,10 @@
 
 <p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=seetha-devi&show_icons=true&locale=en" alt="seetha-devi" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seetha-devi&show_icons=true&locale=en&layout=compact" alt="seetha-devi" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=seetha-devi&show_icons=true&locale=en&layout=compact" alt="seetha-devi" /></p>
 </p>
 
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=seetha-devi&" alt="seetha-devi" /></p>
+
 
 
